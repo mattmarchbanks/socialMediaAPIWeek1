@@ -1,4 +1,4 @@
-package com.promineomatt.socialMediaApi;
+package com.promineotech.socialMediaApi;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
